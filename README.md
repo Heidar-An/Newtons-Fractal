@@ -1,2 +1,2 @@
-# Newton-s-Fractal
+# Newtons-Fractal
 A duo collaboration of Newton's Fractal created in p5.js
